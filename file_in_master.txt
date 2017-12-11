@@ -1,1 +1,3 @@
 line 1 in master
+On branch conflict
+nothing to commit, working tree clean
